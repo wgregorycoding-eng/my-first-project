@@ -1,7 +1,7 @@
 body{
     background-color: lightgrey;
     background-image: url("../images/background-img.jpg");
-    font weight:bold
+    font-weight:bold;
 }
 h2 {
     color:orangered;
