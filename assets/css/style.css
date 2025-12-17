@@ -1,6 +1,7 @@
 body{
     background-color: lightgrey;
     background-image: url("../images/background-img.jpg");
+    background-repeat:no-repeat
     font-weight:bold;
 }
 .text-center {
