@@ -3,9 +3,6 @@ body{
     background-image: url("../images/background-img.jpg");
     font-weight:bold;
 }
-h2 {
-    color:orangered;
-}
 .text-center {
     text-align: center;
 }
